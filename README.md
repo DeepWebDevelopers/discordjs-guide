@@ -14,6 +14,6 @@ The best way to enjoy our documentation is on the [official website](https://git
 
 ### Want to support us?
 
-You can join our [Discord Server](https://discord.com/invite/NbqBQbaejS) for the lasted information about the docs and support on it.
+You can join our [Discord Server](https://discord.com/invite/NbqBQbaejS) for the lasted information about the docs and support on it!
 
 For more imformation [click here](https://deepwebdevelopers.github.io/discord-bot-guide/docs/home/doc2)
