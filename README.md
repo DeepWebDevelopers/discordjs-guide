@@ -6,7 +6,7 @@
 
 Thanks for checking out our GitHub page! The Discord Bot Guide was originally created by [ThatGuyJamal](https://github.com/ThatGuyJamal). He is a fellow software engineer and Highschool student. 
 
-> I have always loved using Discord for many years now. Discord bots were never something I thought about building myself until a friend asked me about them. Soon I began to research them and build them myself. While I'm no prophetical in Full-Stack development, I decided to get a few people together and create this website. My goal is to improve all of our development skills by building real-world documentation that people can use. Teaching others is always fun when you enjoy it. *ThatGuyJamal#2695 - 2021*
+> I have always loved using Discord for many years now. Discord bots were never something I thought about building myself until a friend asked me about them. Soon I began to research them and swddbuild them myself. While I'm no prophetical in Full-Stack development, I decided to get a few people together and create this website. My goal is to improve all of our development skills by building real-world documentation that people can use. Teaching others is always fun when you enjoy it. *ThatGuyJamal#2695 - 2021*
 
 ### Getting Started
 
