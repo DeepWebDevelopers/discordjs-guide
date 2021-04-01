@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Discord Bot Guide Blog</title>
+        <link>https://deepwebdevelopers.github.io/blog</link>
+        <description>Discord Bot Guide Blog</description>
+        <lastBuildDate>Thu, 04 Mar 2021 05:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <copyright>Copyright © 2021 DeepWebDevelopers, Inc.</copyright>
+        <item>
+            <title><![CDATA[Alpha Release]]></title>
+            <link>https://deepwebdevelopers.github.io/discord-bot-guide/fr/blog/2021/03/04/Alpha</link>
+            <guid>Alpha Release</guid>
+            <pubDate>Thu, 04 Mar 2021 05:00:00 GMT</pubDate>
+            <description><![CDATA[The Alpha Version]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Site Founder]]></title>
+            <link>https://deepwebdevelopers.github.io/discord-bot-guide/fr/blog/Owner</link>
+            <guid>Owner</guid>
+            <pubDate>Wed, 03 Mar 2021 05:00:00 GMT</pubDate>
+            <description><![CDATA[Who am I?]]></description>
+        </item>
+    </channel>
+</rss>
