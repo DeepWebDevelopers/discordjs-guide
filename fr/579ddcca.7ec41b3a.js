@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{59:function(a){a.exports=JSON.parse('{"allTagsPath":"/discord-bot-guide/fr/blog/tags","slug":"alpha","name":"alpha","count":1,"permalink":"/discord-bot-guide/fr/blog/tags/alpha"}')}}]);
