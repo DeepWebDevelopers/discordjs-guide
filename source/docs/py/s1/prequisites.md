@@ -20,3 +20,8 @@ This tutorial assumes you have a basic understanding of Object-Oriented Programm
 - [Python Documentation](https://docs.python.org/3/)
 - [Codecademy](https://www.codecademy.com/catalog/language/python)
 - [freeCodeCamp](https://www.youtube.com/watch?v=rfscVS0vtbw)
+
+
+:::tip
+I reccomand you look over the discord.py [Documentation](https://discordpy.readthedocs.io/en/latest/)
+:::
